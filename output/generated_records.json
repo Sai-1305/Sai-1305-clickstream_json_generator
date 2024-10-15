@@ -1,0 +1,121 @@
+[
+  {
+    "session_id": 39747196,
+    "start_time": "2024-07-03T23:45:42.527Z",
+    "user_id": 76563847,
+    "device": "iOS mobile application",
+    "ip_address": "119.213.37.204",
+    "activity": [
+      {
+        "upload": {
+          "picture_id": 54826907,
+          "time_stamp": "2024-07-04T00:09:15.405Z",
+          "location": "Welwyn Garden City, United Kingdom"
+        }
+      },
+      {
+        "profile_update": [
+          {
+            "smoking": {
+              "smoking": false,
+              "time_stamp": "2024-07-04T00:16:53.826Z"
+            }
+          },
+          {
+            "hobbies": {
+              "hobbies": [
+                "CAMPING",
+                "LISTENING MUSIC"
+              ],
+              "time_stamp": "2024-07-03T23:49:42.633Z"
+            }
+          },
+          {
+            "hobbies": {
+              "hobbies": [
+                "GYM"
+              ],
+              "time_stamp": "2024-07-04T00:02:30.483Z"
+            }
+          },
+          {
+            "star_sign": {
+              "star_sign": "LEO",
+              "time_stamp": "2024-07-03T23:54:30.265Z"
+            }
+          },
+          {
+            "hobbies": {
+              "hobbies": [
+                "COOKING"
+              ],
+              "time_stamp": "2024-07-04T00:15:48.480Z"
+            }
+          }
+        ]
+      }
+    ],
+    "end_time": "2024-07-04T00:20:42.527Z"
+  },
+  {
+    "session_id": 1826759,
+    "start_time": "2023-12-17T00:45:43.935Z",
+    "user_id": 34469027,
+    "device": "Android mobile application",
+    "ip_address": "42.202.174.24",
+    "activity": [
+      {
+        "capture": {
+          "picture_id": 80235027,
+          "time_stamp": "2023-12-17T02:51:03.098Z",
+          "location": "Meru, India"
+        }
+      }
+    ],
+    "end_time": "2023-12-17T03:57:43.935Z"
+  },
+  {
+    "session_id": 88385435,
+    "start_time": "2024-02-07T00:45:45.344Z",
+    "user_id": 4292672,
+    "device": "Android mobile application",
+    "ip_address": "84.218.223.43",
+    "activity": [
+      {
+        "left_swipe": {
+          "other_user_id": 35491011,
+          "time_stamp": "2024-02-07T01:46:25.423Z"
+        }
+      },
+      {
+        "capture": {
+          "picture_id": 65004744,
+          "time_stamp": "2024-02-07T00:53:49.277Z",
+          "location": "Citong, Taiwan"
+        }
+      },
+      {
+        "upload": {
+          "picture_id": 7596662,
+          "time_stamp": "2024-02-07T01:40:52.399Z",
+          "location": "Villamartin, Spain"
+        }
+      },
+      {
+        "upload": {
+          "picture_id": 93427183,
+          "time_stamp": "2024-02-07T01:12:23.191Z",
+          "location": "Ricaurte, Ecuador"
+        }
+      },
+      {
+        "capture": {
+          "picture_id": 78185136,
+          "time_stamp": "2024-02-07T01:43:25.945Z",
+          "location": "Nachikatsuura, Japan"
+        }
+      }
+    ],
+    "end_time": "2024-02-07T02:00:45.344Z"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-schema-faker": "^0.5.6",
+    "moment": "^2.30.1"
+  }
+}
